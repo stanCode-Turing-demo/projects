@@ -18,4 +18,4 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 * [Name Popularity Searching System](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/name_popularity_searching_system/babygraphics.py)
   * data structure
 * [Boggle Game Solver](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/boggle_game_solver/boggle.py)
-  * recursion concepts
+  * recursive functions
